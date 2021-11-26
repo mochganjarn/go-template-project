@@ -1,1 +1,1 @@
-# go_fiber_template
+# go_template_project

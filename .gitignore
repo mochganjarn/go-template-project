@@ -4,7 +4,8 @@
 *.dll
 *.so
 *.dylib
-
+.env
+practice-storage-v1-firebase-adminsdk-dwbs2-618816485c.json
 # Test binary, built with `go test -c`
 *.test
 
